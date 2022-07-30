@@ -38,7 +38,7 @@ global.APIKeys = {
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.vcardowner = ['6281267259233'] //ur owner number
+global.ownername = "Number 1Fini" //ur owner name
+global.ytname = "YT: RFOF" //ur yt chanel name
+global.socialm = "GitHub: FinnyBot" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.owner = ['6281267259233']
+global.ownertag = '6281267259233' //ur tag number
+global.botname = 'Finny Bot' //ur bot name
+global.linkz = "https://youtube.com/channel/UCajXa43e7gfMaLLyadt0EUQ" //your theme url which will be displayed on whatsapp
+global.websitex = "tiktok.com/@republicoffini" //ur website to be displayed
+global.botscript = 'https://github.com/ParafinMan/FinnyBot' //script link
+global.reactmoji = "🤔" //ur menu react emoji
+global.themeemoji = "😎" //ur theme emoji
+global.packname = "Fini Bot Stickes " //ur sticker watermark packname
+global.author = "By Fini Bot" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -106,19 +106,19 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    admin: 'Fitur Ini Hanya Untuk Admin!',
+    botAdmin: 'Bot Harus Menjadi Admin Dahulu!',
+    owner: 'Fitur Ini Hanya Untuk Owner Ku!',
+    group: 'Fitur Ini Hanya Untuk Di Grup!',
+    private: 'Fitur Ini Hanya Untuk Di Private Chat!',
+    bot: 'Fitur Ini Hanya Untuk Bot Fini,
+    wait: 'Sedang Di Proses...',
+    linkm: 'Dimana Link Nya?',
     error: 'Error!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    endLimit: 'Hadiah Kamu Telah Limited Atau Habis, Tunggulah Hingga 12 Jam Mendatang!',
+    ban: 'Kamu Telah Di Ban Sama Owner Ku, Silahkan Chat Owner Ku Biar Di UnBan!',
+    nsfw: 'Fitur Ini Belum Aktif, Silahkan Minta Admin Untuk Meng Aktifkan Nya!',
+    banChat: 'Bot Telah Di Ban Dari Grup Ini, Mintalah Owner Untuk Di Unban Di Grup Ini!'
 }
     global.limitawal = {
     premium: "Infinity",
